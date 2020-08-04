@@ -10,6 +10,9 @@
 ## Basics
 * ZIP : [7Zip](https://www.7-zip.org/)
 * Internet Browser : [Mozilla Firefox](https://www.mozilla.org/fr/firefox/new/)
+* ScreenShot : [ShareX](https://getsharex.com/)
+* Screen Recording : [OBS](https://obsproject.com/fr/welcome)
+
 ## Media
 * Audio & Vidéo : [VLC](https://www.videolan.org/vlc/download-windows.fr.html)
 * Photo Viewer : [ImageGlass](https://imageglass.org/)
