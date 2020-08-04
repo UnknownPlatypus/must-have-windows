@@ -22,7 +22,7 @@
 
 ## Coding
 * Text Editor : [Visual Studio Code](https://code.visualstudio.com/)
-* SQL Manager : [HeidiSQL](https://www.heidisql.com/download.php
+* SQL Manager : [HeidiSQL](https://www.heidisql.com/download.php)
 * Python : [Python](https://www.python.org/downloads/)
 
 
