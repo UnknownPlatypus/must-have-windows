@@ -30,7 +30,7 @@
 
 
 ## Bonus
-* Password Manager [KeePassX](https://www.keepassx.org/downloads)
+* Password Manager : [KeePassX](https://www.keepassx.org/downloads)
 * Folder size stats : [WinDirStat](https://windirstat.net/download.html)
 * Win10 Privacy tweeker : [ShutUp10](https://www.oo-software.com/fr/shutup10)
 
