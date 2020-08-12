@@ -8,13 +8,13 @@
  * [Bonus](#Bonus)
 
 ## Basics
+* Automated installer [Ninite](https://ninite.com/)
 * ZIP : [7Zip](https://www.7-zip.org/)
 * Internet Browser : [Mozilla Firefox](https://www.mozilla.org/fr/firefox/new/)
 * PDF Reader : [AcrobatReader](https://get.adobe.com/fr/reader/)
 * Fast Search in PC : [Everything](https://www.voidtools.com/)
 * ScreenShot Advanced : [ShareX](https://getsharex.com/)
 * Screen Recording : [OBS](https://obsproject.com/fr/welcome)
-
 
 ## Media
 * Audio & Vidéo : [VLC](https://www.videolan.org/vlc/download-windows.fr.html)
