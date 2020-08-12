@@ -8,7 +8,7 @@
  * [Bonus](#Bonus)
 
 ## Basics
-* Automated installer [Ninite](https://ninite.com/)
+* Automated Installer : [Ninite](https://ninite.com/)
 * ZIP : [7Zip](https://www.7-zip.org/)
 * Internet Browser : [Mozilla Firefox](https://www.mozilla.org/fr/firefox/new/)
 * PDF Reader : [AcrobatReader](https://get.adobe.com/fr/reader/)
