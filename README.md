@@ -1,4 +1,4 @@
-# Must have software windows
+# Must have software for Windows
 
 ## Table of Contents
 
