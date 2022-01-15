@@ -1,34 +1,35 @@
 # Must have software for Windows
+My Goto when I have to setup a new windows PC
 
 ## Table of Contents
 
  * [Basics](#Basics) 
- * [Media](#Media)
  * [Coding](#Coding)
+ * [Media](#Media)
+ * [Music](#Music)
  * [Bonus](#Bonus)
 
 ## Basics
 * ZIP : [7Zip](https://www.7-zip.org/)
 * Internet Browser : [Mozilla Firefox](https://www.mozilla.org/fr/firefox/new/)
-* PDF Reader : [AcrobatReader](https://get.adobe.com/fr/reader/)
 * Fast Search in PC : [Everything](https://www.voidtools.com/)
 * Screen Recording : [OBS](https://obsproject.com/fr/welcome)
 * Password Manager : [KeePassX](https://www.keepassx.org/downloads)
 
-
-## Media
-* Audio & Vidéo : [VLC](https://www.videolan.org/vlc/download-windows.fr.html)
-* Photo Viewer : [ImageGlass](https://imageglass.org/)
-* Youtube-dl : [Youtube-dl](https://github.com/ytdl-org/youtube-dl)
-* Guitar Tab : [TuxGuitar](https://tuxguitar.fr.uptodown.com/windows)
-* Youtube-dl-firefox-extension : [Youtube-dl-addon](https://github.com/UnknownPlatypus/yt-dl-firefox-extension)
-
-
 ## Coding
 * Text Editor : [Visual Studio Code](https://code.visualstudio.com/)
-* SQL Manager : [HeidiSQL](https://www.heidisql.com/download.php)
+* SQL Client : [HeidiSQL](https://www.heidisql.com/download.php)
 * Python : [Python](https://www.python.org/downloads/)
 
+## Media
+* Audio & Vidéo Player : [VLC](https://www.videolan.org/vlc/download-windows.fr.html)
+* Photo Viewer : [ImageGlass](https://imageglass.org/)
+
+# Music
+* Youtube-dl : [Youtube-dl](https://github.com/ytdl-org/youtube-dl)
+* Guitar Tab : [TuxGuitar](https://tuxguitar.fr.uptodown.com/windows)
+* Recording & Producing : [Ableton](https://www.ableton.com/en/shop/live/)
+* Guitar Amps: [Guitar Rig](https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-pro/)
 
 ## Bonus
 * Folder size stats : [WinDirStat](https://windirstat.net/download.html)
